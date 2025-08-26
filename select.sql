@@ -1,4 +1,4 @@
-set serveroutput on
+--set serveroutput on
 
 select * from dual;
 
